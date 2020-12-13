@@ -14,3 +14,8 @@ Neopixels, Wemos D1 Minis, MQTT via Adafruit IO and a few buttons.
 * When powered up, the lights will begin to twinkle white.
 * On first powerup, the Tree Lights will set up a WiFi Access Point.
 * On a successful connection to the world wide web and Adafruit IO, the lights will change to the current global colour (which could be white).
+#### The Gift Controller
+* On first power up, the light nexts to the switch illuminates, WiFi AP initiates. 
+* On successful world wide web connection, light flashes green.
+* To change the colour, press and hold any combination of buttons (the mix like paint).
+* It's worked if your indicator light changes colour.
